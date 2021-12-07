@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "discord-rich-presence": "^0.0.8",
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0"
+  },
+  "name": "cdp-bot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
