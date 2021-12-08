@@ -2,7 +2,7 @@ const discord = require('discord.js')
 
 module.exports = {
     name: "ping" , 
-    author: "KledsonV" ,
+    author: "Kledson V" ,
 
 
     run: async(client, message, args) => {
